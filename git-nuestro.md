@@ -12,4 +12,3 @@ y líbranos de *SVN*.
 
 'git commit --amend'
 
-
