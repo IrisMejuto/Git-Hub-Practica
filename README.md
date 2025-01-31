@@ -56,7 +56,7 @@ git checkout main
 ```
 
 ```bash
-git merge --no-ff title -m "Merge branch 'title' to main (no fast-forward)"
+git merge --no-ff title -m "Merge branch 'title'"
 ```
 
 ### 8. ¿Qué comando o comandos utilizaste en el paso 27?
